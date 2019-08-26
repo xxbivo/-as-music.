@@ -3,4 +3,4 @@ prefix=a
 game=AsMusic
 stayinchannel=true
 songinstatus=false
-token=NjE1NTc3ODQ3MDY2NTI1NzI3.XWQGzw.nWm2zZp7xPduXKmrDrFNzi8htkU
+token="NjE1NTc3ODQ3MDY2NTI1NzI3.XWQGzw.nWm2zZp7xPduXKmrDrFNzi8htkU"
