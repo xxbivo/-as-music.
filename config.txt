@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=1
-game=play
+owner=609635125696790529
+prefix=a
+game=AsMusic
 stayinchannel=true
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NjE1NTc3ODQ3MDY2NTI1NzI3.XWQGzw.nWm2zZp7xPduXKmrDrFNzi8htkU
